@@ -8,10 +8,9 @@ This is a responsive multi-section educational website built using **HTML, CSS, 
 ## 🚀 Features
 
 - ✅ Responsive Navbar with Section Links
-- 🌗 Dark/Light Mode Toggle (JavaScript-based)
 - 🎯 Smooth Scroll Behavior
 - 💡 Semantic HTML5 Tags
-- ✨ Modern Layout & Typography
+- ✨ Modern Layout 
 
 ---
 
